@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoveCalculator</string>
+    <string name="Your_Name_Hint">Your Name</string>
+    <string name="Crush_Name_Hint">Crush Name</string>
+    <string name="calc">GO !!</string>
+    <string name="New">Again</string>
+</resources>
